@@ -1,12 +1,11 @@
-# codeial
-# User can send messege to their friend via socket
-# add Friend
-# post a wall
-# like/dislike on comment and post
-# session managment
-# local encrypted authentication using passportjs
-# google authentication
-# beautiful notificatin using notyjs
-# Api version of this application
-# load balancing using kue
-# request management
+# Codeial
+1. Implementing Friendship
+    a. Sending and accepting friend requests
+2. Chatting
+    a. Chatting between friends
+    b. Storing messages in database.
+3. Pages for Celebrities/Organizations
+4. Posts
+5. User wall
+6. Adding more social authentication strategy 
+7. Reactions to Posts and Comments
