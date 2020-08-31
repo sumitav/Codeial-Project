@@ -1,0 +1,22 @@
+/******************** *******************************css for footer ***********************************************************/
+footer {
+  background-color: #eb8a0c;
+  display: flex;
+  height: 10%;
+  color: white; }
+  footer div {
+    padding: 20px; }
+  footer ul {
+    list-style-type: none;
+    margin: auto 20px;
+    padding: 0;
+    display: flex;
+    flex-direction: column; }
+    footer ul li {
+      margin: 2px;
+      display: inline-block; }
+      footer ul li a {
+        color: inherit;
+        text-decoration: none; 
+  }
+/************************************************************************************************************************************/

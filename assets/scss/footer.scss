@@ -1,0 +1,24 @@
+footer{
+    background-color: #eb8a0c;
+    display: flex;
+    height: 10%;
+    color: white;
+    div{
+        padding: 20px;
+    }
+    ul{
+        list-style-type: none;
+        margin: auto 20px;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        li{
+            margin: 2px;
+            display: inline-block;
+            a{  
+                color: inherit;
+                text-decoration: none;
+            }
+        }
+    }
+}
